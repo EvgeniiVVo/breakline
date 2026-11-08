@@ -22,11 +22,11 @@ public class Main {
             }
         }
 
-       String result = new String(chars);
+        String result = new String(chars);
 
         System.out.println(result);
     }
-    }
+}
 
 //    int n = s.length();
 //    char c = s.charAt(0);
